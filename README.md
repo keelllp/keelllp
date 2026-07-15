@@ -87,9 +87,9 @@ hpc:         [ OpenMP, MPI, C++ ]
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=keelllp&show_icons=true&count_private=true&hide_border=true&hide_title=true&icon_color=3FB950&text_color=8b949e&bg_color=0d1117" alt="stats"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keelllp&layout=compact&hide_border=true&title_color=3FB950&text_color=8b949e&bg_color=0d1117&langs_count=8" alt="top langs"/>
+<img src="https://streak-stats.demolab.com?user=keelllp&hide_border=true&background=0d1117&stroke=8b949e&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keelllp&bg_color=0d1117&color=3FB950&line=3FB950&point=8b949e&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
 
